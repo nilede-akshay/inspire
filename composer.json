@@ -1,0 +1,18 @@
+{
+    "name": "nilede-akshay/demo-package",
+    "description": "Testing",
+    "autoload": {
+        "psr-4": {
+            "NiledeAkshay\\DemoPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "devakshaythorat",
+            "email": "akshay@nilede.tech"
+        }
+    ],
+    "require": {
+  "guzzlehttp/guzzle": "^7.0.1"
+}
+}
